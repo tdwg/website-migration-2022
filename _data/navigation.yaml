@@ -6,7 +6,9 @@
 - text: Community
   href: /community/
 - text: Conferences
-  href: /conferences/
+  menu:
+  - text: "2019"
+    href: /conferences/2019/
 - text: About
   href: /about/
 - text: News
