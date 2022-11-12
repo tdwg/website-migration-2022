@@ -1,0 +1,12 @@
+columns:
+  - links:
+    - text: What is TDWG?
+      href: https://www.tdwg.org/about/
+    - text: Contact us
+      href: https://www.tdwg.org/about/contact/
+    - text: Privacy policy
+      href: https://www.tdwg.org/about/terms-of-use/#privacy%20statement # TODO
+
+license: >
+  Content on this site, made open by [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/) 
+  is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
