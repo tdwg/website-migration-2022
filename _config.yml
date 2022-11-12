@@ -21,6 +21,7 @@ colors:
   banner: "#043B58" # TDWG blue
   footer: "#043B58" # TDWG blue
 font_serif: false
+logo: /assets/images/logo.svg
 
 # BUILD SETTINGS
 exclude:
