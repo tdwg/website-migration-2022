@@ -7,7 +7,12 @@
   href: /community/
 - text: Conferences
   menu:
-  - text: "2019"
+  - text: "2022 - Sofia, Bulgaria"
+    href: true
+  - text: "2021 - Virtual Conference"
+    href: true
+  - text: "2020 - Virtual Conference"
+    href: true
   - text: "2019 - Leiden, The Netherlands"
     href: /conferences/2019/
   - text: "2018 - Dunedin, New Zealand"
