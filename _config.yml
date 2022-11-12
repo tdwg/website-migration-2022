@@ -16,6 +16,7 @@ remote_theme: peterdesmet/petridish
 posts_on_home: 3
 tweets_on_home: true
 archive_permalink: /news/
+github_edit: true
 colors:
   links: "#617E3E"  # Variation on TDWG green (#709147)
   banner: "#043B58" # TDWG blue
