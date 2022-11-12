@@ -1,0 +1,41 @@
+# SITE SETTINGS
+title: TDWG
+description: >
+  Biodiversity Information Standards (TDWG) is a non-profit organization and 
+  community dedicated to developing biodiversity information standards.
+author: Biodiversity Information Standards (TDWG)
+
+# SOCIAL PROFILES
+email: secretary@tdwg.org
+twitter_username: tdwg
+github_username: tdwg
+
+# THEME SETTINGS
+theme: minima
+remote_theme: peterdesmet/petridish
+posts_on_home: 3
+tweets_on_home: true
+archive_permalink: /news/
+colors:
+  links: "#617E3E"  # Variation on TDWG green (#709147)
+  banner: "#043B58" # TDWG blue
+  footer: "#043B58" # TDWG blue
+font_serif: false
+
+# BUILD SETTINGS
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/news/:year/:slug/"   # Use /news/yyyy/{filename}/ as permalink for all posts
