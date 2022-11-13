@@ -8,7 +8,7 @@
 - text: Conferences
   menu:
   - text: "2022 - Sofia, Bulgaria"
-    href: true
+    href: /conferences/2022/
   - text: "2021 - Virtual Conference"
     href: true
   - text: "2020 - Virtual Conference"
