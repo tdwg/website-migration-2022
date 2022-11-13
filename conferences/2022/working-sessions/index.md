@@ -20,16 +20,19 @@ Below you can find the list of sessions of the respective Interest Groups and Ta
 
 
 # Schedule
-The latest schedule has been posted as a Google spreadsheet. See the [TDWG 2022 November Working Sessions Schedule](https://docs.google.com/spreadsheets/d/1pX24tUL52zPZFv9_GzWAho-5LcMa1AhJe3710q4_8cU/edit?usp=sharing). Three time zones are listed for start times of each session. The sessions are listed below in temporal order and each session has a link that will show the time in your local time zone. 
+The calendar below will display the schedule of sessions. Begin by using the controls in the upper left (below the title) to navigate the week of 6 November. Note that you need to scroll through the hours of the day (up and down) to see all sessions.  The displayed time zone of this calendar is UTC (00:00). You can view your local time for an event by clicking on the event and in the pop-up, clicking either "more details" or "copy to my calendar."  Alternatively, you can import the entire schedule of sessions by importing this [ics file](https://calendar.google.com/calendar/ical/7439a042f07a82eea86e36ba52e8eac38e30a09f9535b2c477a6066f2024888f%40group.calendar.google.com/public/basic.ics), or clicking the "+Google Calendar" in the lower right. 
 
-Time zone differences across our global community make it unavoidable that some sessions of interest may occur well outside of normal working hours or during the middle of the night for some.
+In addition, the sessions are listed below in chronological order, and each session has a link that will show the time in your local time zone. Please note, **the time for the MIDS session has been updated.** \[-Ed@2022-11-04T18:30UTC]
 
-Each session will be recorded and made available for later viewing. Session organizers are encouraged to use shared notes to enable asynchronous participation. Links will be added to the descriptions below after the live session. 
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=UTC&mode=WEEK&src=NzQzOWEwNDJmMDdhODJlZWE4NmUzNmJhNTJlOGVhYzM4ZTMwYTA5Zjk1MzViMmM0NzdhNjA2NmYyMDI0ODg4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EF6C00" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe><br />  
+  
+  
+Time zone differences across our global community make it inevitable that some sessions of interest will occur outside normal working hours, or during the middle of the night, for some who would like to particpate.  Each session will be recorded and made available for later viewing. Session organizers have been encouraged to use shared notes to enable asynchronous participation. Links to videos and notes will be added to the descriptions below after the live session. 
 
 # Registration and how to support the conference
 [Registration is available through Zoom](https://us06web.zoom.us/meeting/register/tZYrf-2pqj8jH9PST-k6ZmZWTPecwjSejmgf). Registration is required to participate in the online event, but it is free. A single registration will allow you to attend any of the sessions. When you register, please answer "Yes" for any meetings you will attend. This is not binding, but will give the meeting organizers an idea of how many to expect. (You do not need to answer "No" for meetings you are not planning to attend.)
 
-The services required to run an online conference, however, are not free. We encourage all participants to join TDWG [as an individual member](https://zohosecurepay.com/checkout/wc9vqum-8am1lyxy1fswt/Individual-TDWG-Membership) or through an [institutional membership](https://www.tdwg.org/about/membership/#institutional%20members%202021_1). 
+The services required to run an online conference, however, are not free. We encourage all participants to [become TDWG members](https://www.tdwg.org/about/membership/) either as individuals or through their institution. 
 
 
 # Sessions
@@ -75,7 +78,7 @@ The services required to run an online conference, however, are not free. We enc
 The Darwin Core Maintenance Group is responsible for maintaining the various components of the Darwin Core Standard, which includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. 
 
 ## Plant Phenology Standards Task Group
-**Date/Time:** November 8, 17:00 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Plant+Phenology+Standards+Task+Group&iso=20221108T17&p1=%3A&ah=1&am=30))
+**Date/Time:** November 15, 17:00 UTC **NOTE CHANGE OF DATE! Please contact the convener for the Zoom link.** ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Plant+Phenology+Standards+Task+Group&iso=20221115T17&p1=1440&ah=1&am=300))
 
 **Session Type:** Interest/Task Group meeting
 
@@ -101,7 +104,7 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 
 **Organizer:** [Francisco Pando](mailto:pando@rjb.csic.es), Real Jardín Botánico-CSIC / GBIF Spain, Madrid, Spain
 
-**About the group:** The current version of the standard was published more than 20 year ago. The previous edition was limited to the terrestrial domain and restricted to plans. The current developments, aiming to cover the marine domain and extend to all living organisms, may attract an ever more extended community of uses.
+**About the group:** The current version of the standard was published more than 20 year ago. The previous edition was limited to the terrestrial domain and restricted to plants. The current developments, aiming to cover the marine domain and extend to all living organisms, may attract an ever more extended community of uses.
 
 
 ## Plinian Core Task Group
@@ -114,7 +117,7 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 **About the group:** This group works towards developing a data specification, the Plinian Core, that can be used to describe different aspects of biological species information. By "biological species information" all kinds of properties or traits related to taxa, including biological and non-biological traits are within scope. 
 
 
-## Taxon Concepts Schema Interest Group (TCS2)
+## Taxon Concepts Schema (TCS) Maintenance Group
 **Date/Time:** November 9, 22:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Taxon+Concepts+Schema+Interest+Group+%28TCS2%29&iso=20221109T2230&p1=%3A&ah=1&am=30))
 
 **Session Type:** Interest/Task Group meeting
@@ -122,16 +125,6 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 **Organizer:** [Niels Klazenga](mailto:Niels.Klazenga@rbg.vic.gov.au), Royal Botanic Gardens Victoria/Atlas of Living Australia, Melbourne, Victoria, Australia
 
 **About the group:** The TCS maintenance group is responsible for maintaining the various components of the TCS standard. That includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard.
-
-
-## Minimum Information about a Digital Specimen (MIDS) Task Group
-**Date/Time:** November 10, 07:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum+Information+about+a+Digital+Specimen+%28MIDS%29+Task+Group&iso=20221110T0730&p1=%3A&ah=1&am=30))
-
-**Session Type:** Interest/Task Group meeting
-
-**Organizer:** [Elspeth Haston](mailto:ehaston@rbge.org.uk), Royal Botanical Gardens Edinburgh (RBGE), Edinburgh, UK
-
-**About the group:** Inspired by the idea of 'minimum information standards' adopted in other areas of biology we name this proposed TDWG standard as 'Minimum Information about a Digital Specimen' (MIDS). This harmonizing framework includes making the data publicly available because pen access policies in countries around the world require that digital data should be findable and accessible, even at the lowest level of available digitized information.
 
 
 ## TDWG Outreach and Communication
@@ -151,6 +144,16 @@ The Darwin Core Maintenance Group is responsible for maintaining the various com
 **Organizer:** [Ed Baker](mailto:edwbaker@gmail.com), Natural History Museum, London and University of York, UK
 
 **About this group:** The Audubon Core maintenance group is responsible for maintaining the various components of the Audubon Core standard. That includes managing suggested changes to the vocabulary, providing usage guidelines and examples, and ensuring the preservation and stability of metadata related to components of the standard. 
+
+
+## Minimum Information about a Digital Specimen (MIDS) Task Group
+**Date/Time:** November 10, 18:30 UTC ([Convert to your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Minimum+Information+about+a+Digital+Specimen+%28MIDS%29+Task+Group&iso=20221110T1830&p1=1440&ah=1&am=30))
+
+**Session Type:** Interest/Task Group meeting
+
+**Organizer:** [Elspeth Haston](mailto:ehaston@rbge.org.uk), Royal Botanical Gardens Edinburgh (RBGE), Edinburgh, UK
+
+**About the group:** Inspired by the idea of 'minimum information standards' adopted in other areas of biology we name this proposed TDWG standard as 'Minimum Information about a Digital Specimen' (MIDS). This harmonizing framework includes making the data publicly available because pen access policies in countries around the world require that digital data should be findable and accessible, even at the lowest level of available digitized information.
 
 
 ## Citizen Science Interest Group
