@@ -22,6 +22,39 @@
   - text: "2016 - Santa Clara de San Carlos, Costa Rica"
     href: /conferences/2016/
 - text: About
-  href: /about/
+  menu:
+  - text: About
+    href: /about/
+  - text: "---"
+  - text: Executive committee
+    href: true
+  - text: Functional subcommittees
+    href: true
+  - text: Process
+    href: true
+  - text: Constitution
+    href: true
+  - text: Incorporation and status
+    href: true
+  - text: "---"
+  - text: Membership
+    href: true  
+  - text: Terms of use
+    href: true
+  - text: Code of conduct
+    href: true
+  - text: Diversity and inclusion statement
+    href: true
+  - text: Liability disclaimer and release
+    href: true
+  - text: Review manager guidelines
+    href: true
+  - text: Contributing to the website
+    href: true
+  - text: "---"
+  - text: Logos
+    href: true
+  - text: Contact
+    href: true
 - text: News
   href: /news/
