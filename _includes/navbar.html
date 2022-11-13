@@ -5,8 +5,8 @@
         <img src="{{ site.logo | relative_url }}" class="me-2" alt="{{ site.title }}">
       {% endif %}
     </a>
-    {% if page.navigation and site.data.navigation[page.navigation] %}
-      {% assign navigation = site.data.navigation[page.navigation] %}
+    {% if page.navigation and site.data[page.navigation] %}
+      {% assign navigation = site.data[page.navigation] %}
     {% elsif site.data.navigation %}
       {% assign navigation = site.data.navigation %}
     {% endif %}
