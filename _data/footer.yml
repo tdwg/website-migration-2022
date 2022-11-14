@@ -6,6 +6,10 @@ columns:
       href: /about/contact/
     - text: Privacy policy
       href: /about/terms-of-use/#privacy%20statement # TODO
+    - text: Code of conduct
+      href: /about/code-of-conduct/ # TODO
+    - text: Diversity and inclusion statement
+      href: /about/diversity-inclusion/
 
 license: >
   Content on this site, made open by [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/) 
