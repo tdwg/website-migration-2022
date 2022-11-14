@@ -7,12 +7,12 @@ background:
   by: Jennifer Latuperisa-Andresen
   href: https://unsplash.com/photos/Pg6dgmTaqtM
 permalink: /
-# TODO
 featured:
   text: >
     Audubon Core `subjectPart` and `subjectOrientation` controlled vocabularies are **open for public comment** until December 7.
   button: See News item
   href: https://tdwg.org/news/2022/audubon-core-controlled-vocabularies-for-views/
+  img: https://images.unsplash.com/photo-1492934483476-13c04a66709c
 ---
 
 Historically known as the Taxonomic Databases Working Group, today's Biodiversity Information Standards (TDWG) is a not-for-profit, scientific and educational association formed to establish international collaboration among the creators, managers and users of biodiversity information and to promote the wider and more effective dissemination and sharing of knowledge about the world's heritage of biological organisms.
