@@ -6,6 +6,7 @@ background:
   img: https://images.unsplash.com/photo-1518709766631-a6a7f45921c3
   by: sutirta budiman
   href: https://unsplash.com/photos/PdiOj8kRy28
+toc: false
 ---
 
 TDWG standards have a [status and category]({filename}status-and-categories/index.md). Current standards and those under consideration as Draft standards are governed by the [TDWG Process](https://tdwg.org/about/process/), which includes the appointment of a [Review Manager](https://www.tdwg.org/about/review-managers/) to oversee expert and public review of TDWG standards. Our standards are also available as a collection on [FAIRsharing](https://fairsharing.org/collection/TDWGBiodiversity), which places them in context with databases that implement them and data policies that endorse their use.
@@ -19,12 +20,6 @@ TDWG standards have a [status and category]({filename}status-and-categories/inde
 [TDWG Access Protocol for Information Retrieval (TAPIR)]() | 
 [TDWG Standards Documentation Standard (SDS)]() | 
 [Vocabulary Maintenance Standard (VMS)]() | 
-
-## Draft standards
-
---- | ---
-[Global Genome Biodiversity Network (GGBN) Data Standard]() | 
-[Natural Collections Descriptions (NCD)]() | 
 
 ## 2005 standards
 
