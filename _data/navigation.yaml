@@ -1,16 +1,6 @@
 # Main navigation
 - text: Standards
   href: /standards/
-  menu:
-  - text: Standards
-    href: true
-  - text: Popular standards
-  - text: Darwin Core
-    href: true
-  - text: WGSRPD
-    href: true
-  - text: Audubon Core
-    href: true
 - text: Journal
   href: /journal/
 - text: Community
