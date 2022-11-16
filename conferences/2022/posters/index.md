@@ -2,7 +2,7 @@
 title: Posters for TDWG 2022
 description: Virtual posters prepared for our hybrid conference, TDWG 2022
 background:
-img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
+  img: https://static.tdwg.org/conferences/2020/ConferenceImage-CR.jpg
 # status: hidden # TODO
 ---
 
