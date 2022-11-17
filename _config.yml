@@ -14,17 +14,12 @@ social:
 
 # THEME SETTINGS
 theme: minima
-remote_theme: peterdesmet/petridish
+remote_theme: tdwg/petridish
 posts_on_home: 3
 tweets_on_home: false # Ignored by custom home.html layout
 archive_permalink: /news/
 github_edit: true
-colors:
-  links: "#617E3E"  # Variation on TDWG green (#709147)
-  banner: "#043B58" # TDWG blue
-  footer: "#043B58" # TDWG blue
-font_serif: false
-logo: /assets/images/logo.svg
+logo: /assets/theme/images/tdwg-logo-long.svg
 
 # BUILD SETTINGS
 markdown: kramdown
